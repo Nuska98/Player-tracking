@@ -1,0 +1,9 @@
+names:
+- batsman
+- Umpire
+- Keeper
+- Bowler
+- fielder
+nc: 5
+train: C:/Users/Nusak/Desktop/player tracking/images/train
+val: C:/Users/Nusak/Desktop/player tracking/images/val

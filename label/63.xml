@@ -1,0 +1,38 @@
+<annotation>
+	<folder>img</folder>
+	<filename>63.png</filename>
+	<path>C:\Users\Nusak\Desktop\player tracking\img\63.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batsman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>117</ymin>
+			<xmax>351</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keeper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>73</ymin>
+			<xmax>510</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>
